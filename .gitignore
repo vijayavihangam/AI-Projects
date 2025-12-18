@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.python-version
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
